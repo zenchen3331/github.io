@@ -1,1 +1,1 @@
-1&ec_beta2.0&这是第二个版本&http://test.html
+0&ec_beta2.0&这是第二个版本&http://test.html
